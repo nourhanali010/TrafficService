@@ -1,11 +1,11 @@
-# TrafficService
-#Traffic service application contains this features to help you to reach safe to your destination while you’re taking
-#transportation or driving on route Features are:
+# Traffic Services
+Traffic service application contains this features to help you to reach safe to your destination while you’re taking
+transportation or driving on route Features are:
 
-#If you found an accident while you are on way in the route you can report this accident to police and ambulance by logging in,
-#then sending a message with your location and description of it .
+If you found an accident while you are on way in the route you can report this accident to police and ambulance by logging in,
+then sending a message with your location and description of it .
 
-#You will be able to tell users about any problem in the route by logging in to the application and
+You will be able to tell users about any problem in the route by logging in to the application and
 send static message including automatically in it your location to the nearest users on the same route with you.
 Travel with me , if a user is going to travel and having a seat in his car/ bus so he can write a post appearing
 in his profile to other users offering a seat and writing more details about the traveling route that he will take with
